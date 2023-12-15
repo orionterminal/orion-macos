@@ -4,986 +4,774 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Resources/cli</key>
+		<key>Resources/Icons.icns</key>
 		<data>
-		KA8A9xxMKwfRNrd8ERpUtRJwAXM=
-		</data>
-		<key>Resources/cli.dist/AppKit/_AppKit.so</key>
-		<data>
-		/33sJo9BnRWlaoRxT2imYZyeevU=
-		</data>
-		<key>Resources/cli.dist/AppKit/_inlines.so</key>
-		<data>
-		mcwCEMOfzNQMeRuRiehd/o0im3Y=
-		</data>
-		<key>Resources/cli.dist/CoreFoundation/_CoreFoundation.so</key>
-		<data>
-		BY2n0R0gEU4KKFX6HKfkP/YoUuk=
-		</data>
-		<key>Resources/cli.dist/CoreFoundation/_inlines.so</key>
-		<data>
-		/9cv2ilK02L7IJCtY83gmctFfYs=
-		</data>
-		<key>Resources/cli.dist/Foundation/_Foundation.so</key>
-		<data>
-		9yV3pYBGQ3UNph8O/pn6imQLSTI=
-		</data>
-		<key>Resources/cli.dist/Foundation/_inlines.so</key>
-		<data>
-		nmVmzk7VwonxL165JoK05ZltWlc=
-		</data>
-		<key>Resources/cli.dist/HIServices/_HIServices.so</key>
-		<data>
-		qHceUWZZbwJjMehCcRXtrsN6ETM=
-		</data>
-		<key>Resources/cli.dist/Python</key>
-		<data>
-		+NzpGrBz3f8yj+aHgKKA6aVc1pQ=
-		</data>
-		<key>Resources/cli.dist/Quartz/CoreGraphics/_callbacks.so</key>
-		<data>
-		jkE4RTZfz9vCK38sOEyTwgh4PUU=
-		</data>
-		<key>Resources/cli.dist/Quartz/CoreGraphics/_coregraphics.so</key>
-		<data>
-		4s1S1XdFtDQXgr3Yn/Swmsf8Tqo=
-		</data>
-		<key>Resources/cli.dist/Quartz/CoreGraphics/_doubleindirect.so</key>
-		<data>
-		NDuJy3M5+zOxESbpFsHFvdXjcec=
-		</data>
-		<key>Resources/cli.dist/Quartz/CoreGraphics/_inlines.so</key>
-		<data>
-		w92lbnvVvYMEZrhp0iLzMUJzT60=
-		</data>
-		<key>Resources/cli.dist/Quartz/CoreGraphics/_sortandmap.so</key>
-		<data>
-		ojI3LUpomk57nOpm+VZmeIdPXBg=
-		</data>
-		<key>Resources/cli.dist/Quartz/CoreVideo/_CVPixelBuffer.so</key>
-		<data>
-		h1RXxmeKb8suXxTbvjzpvSelGz8=
-		</data>
-		<key>Resources/cli.dist/Quartz/ImageKit/_imagekit.so</key>
-		<data>
-		+5ERSRAw6cPHd16lnR1unXW8c2w=
-		</data>
-		<key>Resources/cli.dist/Quartz/PDFKit/_PDFKit.so</key>
-		<data>
-		BAmbs9/t68sjwob8qwqLzVNAGkg=
-		</data>
-		<key>Resources/cli.dist/Quartz/QuartzCore/_quartzcore.so</key>
-		<data>
-		aKiai+KAYn1Sc9RfcVbfSXl1HDA=
-		</data>
-		<key>Resources/cli.dist/Quartz/QuickLookUI/_QuickLookUI.so</key>
-		<data>
-		s+3HRLaAfSKntXvknjgwmBiYp3E=
-		</data>
-		<key>Resources/cli.dist/_asyncio.so</key>
-		<data>
-		aCTR/nJOBTomh5gONTje+vy8AG0=
-		</data>
-		<key>Resources/cli.dist/_bisect.so</key>
-		<data>
-		aGJEFCnpna3noSAi08fWRwsQJMM=
-		</data>
-		<key>Resources/cli.dist/_blake2.so</key>
-		<data>
-		LO29YY1e0WD29C2ydjNTRtNd89c=
-		</data>
-		<key>Resources/cli.dist/_brotli.so</key>
-		<data>
-		RGr1XBmaDYwUnkW8xrU4tSsyZ+I=
-		</data>
-		<key>Resources/cli.dist/_bz2.so</key>
-		<data>
-		wr0DOZcWuAq8MfmQi6wYseh/+w4=
-		</data>
-		<key>Resources/cli.dist/_cffi_backend.so</key>
-		<data>
-		BJmZwAZ3ivJhgy5UqxdrRab2W8E=
-		</data>
-		<key>Resources/cli.dist/_codecs_cn.so</key>
-		<data>
-		iYpeJt1hFEVRt05cC2RmxvCvvkM=
-		</data>
-		<key>Resources/cli.dist/_codecs_hk.so</key>
-		<data>
-		86+g/hYZ05f4comPALwqosB3w84=
-		</data>
-		<key>Resources/cli.dist/_codecs_iso2022.so</key>
-		<data>
-		lPCmzkm3g1FewaNVvBUSEMj9GmY=
-		</data>
-		<key>Resources/cli.dist/_codecs_jp.so</key>
-		<data>
-		ZbTAaFLGohgsRHEeJ8yTx8PGPv8=
-		</data>
-		<key>Resources/cli.dist/_codecs_kr.so</key>
-		<data>
-		rDcQhM7Dkl6vOzunOaqxjrRuK+A=
-		</data>
-		<key>Resources/cli.dist/_codecs_tw.so</key>
-		<data>
-		5Nwu/QL6ZwIGs4aYLzS5tnKpYOQ=
-		</data>
-		<key>Resources/cli.dist/_contextvars.so</key>
-		<data>
-		HxtF259p82v3klNmedUU8cBMPZM=
-		</data>
-		<key>Resources/cli.dist/_crypt.so</key>
-		<data>
-		jFfygYFpeEjH0Y7355cIoRxIzzA=
-		</data>
-		<key>Resources/cli.dist/_csv.so</key>
-		<data>
-		60cQYhZJGrkbUFElwwaP71EUJ48=
-		</data>
-		<key>Resources/cli.dist/_ctypes.so</key>
-		<data>
-		SQ0pWgL7AKP3Oc/T0Ee30aADbBo=
-		</data>
-		<key>Resources/cli.dist/_datetime.so</key>
-		<data>
-		BWulBY2lewnFs7rZo+BBdBUboS8=
-		</data>
-		<key>Resources/cli.dist/_dbm.so</key>
-		<data>
-		zCeU8PTp4LmX8RTjFK+Y+SjvrSU=
-		</data>
-		<key>Resources/cli.dist/_decimal.so</key>
-		<data>
-		oB5+RZ0VFjRu1N2C+hkcFdbajR4=
-		</data>
-		<key>Resources/cli.dist/_elementtree.so</key>
-		<data>
-		eRP1z+uqCWHrPhnbWvx8kVJl7I0=
-		</data>
-		<key>Resources/cli.dist/_hashlib.so</key>
-		<data>
-		AuNUsypp4au47a7RutFcoAURg6Y=
-		</data>
-		<key>Resources/cli.dist/_heapq.so</key>
-		<data>
-		wukZ9tKArJgw8P2aCyfEDoaAHCE=
-		</data>
-		<key>Resources/cli.dist/_json.so</key>
-		<data>
-		kotHX9fzxSjNSerUz+dp6F3tbos=
-		</data>
-		<key>Resources/cli.dist/_lzma.so</key>
-		<data>
-		30fVMivaYWLyqs0H1nGQL3IRJ7Y=
-		</data>
-		<key>Resources/cli.dist/_multibytecodec.so</key>
-		<data>
-		o2kNwDs1hnUeKn4zhiLa95DhXRQ=
-		</data>
-		<key>Resources/cli.dist/_multiprocessing.so</key>
-		<data>
-		Lo2lRuEKg3PaMFxN/cJv9K8D1cA=
-		</data>
-		<key>Resources/cli.dist/_opcode.so</key>
-		<data>
-		PCnU3lxq6oRW+veqflPCcmvO5hc=
-		</data>
-		<key>Resources/cli.dist/_pickle.so</key>
-		<data>
-		j4Jjvadrl2sdYbAcw9RjQeb10iM=
-		</data>
-		<key>Resources/cli.dist/_posixshmem.so</key>
-		<data>
-		0+F4Jn7kXJBarGCG5gvETRE1qwU=
-		</data>
-		<key>Resources/cli.dist/_posixsubprocess.so</key>
-		<data>
-		L8aBDwto7BfZo42dv6wNsVK/KLY=
-		</data>
-		<key>Resources/cli.dist/_queue.so</key>
-		<data>
-		vKsteJmibHoJEdmIW4snFV/mpqE=
-		</data>
-		<key>Resources/cli.dist/_random.so</key>
-		<data>
-		gWnYqTPTsEkujIu7t/hNd6QUyr4=
-		</data>
-		<key>Resources/cli.dist/_scproxy.so</key>
-		<data>
-		718yEf/tTpOQEWQsnV/0taymu1Q=
-		</data>
-		<key>Resources/cli.dist/_sha512.so</key>
-		<data>
-		zlqTHoIW182bcKisS9VdKaB2Fw0=
-		</data>
-		<key>Resources/cli.dist/_socket.so</key>
-		<data>
-		F8ovMa2LdsM4qvG3XpSax0qWJL0=
-		</data>
-		<key>Resources/cli.dist/_ssl.so</key>
-		<data>
-		3+tD/tcj6Yiy+yyWeCbd5nx9u8I=
-		</data>
-		<key>Resources/cli.dist/_statistics.so</key>
-		<data>
-		rgaiuydl3B9v/0CxsbW6hozaR0g=
-		</data>
-		<key>Resources/cli.dist/_struct.so</key>
-		<data>
-		ve9tGHMUw2NWDYTE0Io2XWizuvw=
-		</data>
-		<key>Resources/cli.dist/_uuid.so</key>
-		<data>
-		ySAaHcwxgEhTZo+nkXVKp8S70mM=
-		</data>
-		<key>Resources/cli.dist/_zoneinfo.so</key>
-		<data>
-		5oQPq4i56Qe4E373rgB2LyDqwrQ=
-		</data>
-		<key>Resources/cli.dist/aiohttp/_helpers.so</key>
-		<data>
-		ckmqvn6AP+8AyL23iU8MVZj0yNo=
-		</data>
-		<key>Resources/cli.dist/aiohttp/_http_parser.so</key>
-		<data>
-		N/lma5jr7HzBDzrMhlcHU/duNyE=
-		</data>
-		<key>Resources/cli.dist/aiohttp/_http_writer.so</key>
-		<data>
-		KYEpyA1WrXoneaf2eDtTxfLhXU4=
-		</data>
-		<key>Resources/cli.dist/aiohttp/_websocket.so</key>
-		<data>
-		Q6t+x/i3+nK+m/0cXVFrqs4pfOk=
-		</data>
-		<key>Resources/cli.dist/array.so</key>
-		<data>
-		ChIDyCBQLF1CIsVqTbM9xdHVLTQ=
-		</data>
-		<key>Resources/cli.dist/audioop.so</key>
-		<data>
-		t7ZUm0wQ7TGIIyZMfbXsduVdJ88=
-		</data>
-		<key>Resources/cli.dist/binascii.so</key>
-		<data>
-		6Kl6oYQRpIs+aAVXa6KBeTZzmTw=
-		</data>
-		<key>Resources/cli.dist/charset_normalizer/md.so</key>
-		<data>
-		Cr/KkwUmJXhJXW31ih9vol+4WsE=
-		</data>
-		<key>Resources/cli.dist/charset_normalizer/md__mypyc.so</key>
-		<data>
-		wL855DiEf4TB+FYqZrjqlNtstrs=
-		</data>
-		<key>Resources/cli.dist/cli</key>
-		<data>
-		hXa/QyM3ErwuyJwdoRbjXcOKNrM=
-		</data>
-		<key>Resources/cli.dist/fcntl.so</key>
-		<data>
-		4P2vkgXE2YUjvkZCFqvDky49fCI=
-		</data>
-		<key>Resources/cli.dist/frozenlist/_frozenlist.so</key>
-		<data>
-		Nw6L8WWAWhSZ47XsbpqmmwRjnNw=
-		</data>
-		<key>Resources/cli.dist/grp.so</key>
-		<data>
-		AgcXaahSOQyS073q/S6wUSXtn1M=
-		</data>
-		<key>Resources/cli.dist/libcrypto.1.1.dylib</key>
-		<data>
-		OHQUk9zDgEn5NTf33U7NSWOqe+Y=
-		</data>
-		<key>Resources/cli.dist/libncursesw.5.dylib</key>
-		<data>
-		YoZLJ1FQHs50msKhuUZnPykzOUs=
-		</data>
-		<key>Resources/cli.dist/libssl.1.1.dylib</key>
-		<data>
-		KlNkAyjc9x62+BehD8gvzVGuz0A=
-		</data>
-		<key>Resources/cli.dist/math.so</key>
-		<data>
-		vaKeqvqcFfDbVoT/V1snwcv91Js=
-		</data>
-		<key>Resources/cli.dist/mmap.so</key>
-		<data>
-		7XUonVvB9AcG37Aj9j8fPlvG8Gw=
-		</data>
-		<key>Resources/cli.dist/modules/hermes/connectors/certs.pem</key>
-		<data>
-		PQM5tAMGk6pdzQ/nK9EUp3+M3UQ=
-		</data>
-		<key>Resources/cli.dist/multidict/_multidict.so</key>
-		<data>
-		JgmmsFCQpGduXa8wx8M6aARlVuQ=
-		</data>
-		<key>Resources/cli.dist/objc/_objc.so</key>
-		<data>
-		zX8w6uvGug17Kh/gmdlgsvOXrKM=
-		</data>
-		<key>Resources/cli.dist/orjson/orjson.so</key>
-		<data>
-		H8nzTJ032YniiJguCI/4REW58T0=
-		</data>
-		<key>Resources/cli.dist/pycares/_cares.so</key>
-		<data>
-		AfWA9GDjVl+fRuJTd8BFdzksysY=
-		</data>
-		<key>Resources/cli.dist/pyexpat.so</key>
-		<data>
-		WVVo/o6PIEef9P/jQWAvetj+DcM=
-		</data>
-		<key>Resources/cli.dist/readline.so</key>
-		<data>
-		qAW8a2mJkQnHPfaojbegXsNYj+o=
-		</data>
-		<key>Resources/cli.dist/select.so</key>
-		<data>
-		6TQVr+KYspIinSKqP8f6HsoYSF4=
-		</data>
-		<key>Resources/cli.dist/termios.so</key>
-		<data>
-		Y3eDtBPbwNQxYKNGXU4uP9huWW4=
-		</data>
-		<key>Resources/cli.dist/unicodedata.so</key>
-		<data>
-		HbchjXeuIu0SdQ81bVCPbiWTh3E=
-		</data>
-		<key>Resources/cli.dist/yarl/_quoting_c.so</key>
-		<data>
-		OqWsbai+sTMTWsm6esqEoS8un7w=
-		</data>
-		<key>Resources/cli.dist/zlib.so</key>
-		<data>
-		TsjMJcg96wg8n1T9pegv41w9tRE=
+		VWZrJEhbvofF90TfDp3Zh9IQVeI=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Resources/cli</key>
+		<key>MacOS/AppKit/_AppKit.so</key>
 		<dict>
-			<key>hash2</key>
-			<data>
-			RWMHPu4R9wjzuoQ2L9XokQMc+BHomwDt8x7UdHlrM34=
-			</data>
-		</dict>
-		<key>Resources/cli.dist/AppKit/_AppKit.so</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			8EBYPFJaxWx4EsC/wzHRsyMyruZRRmsCtAviVUi8PNM=
-			</data>
-		</dict>
-		<key>Resources/cli.dist/AppKit/_inlines.so</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			mtjDCAifybIhDUFlXGLbaNtv0NUDdhj1MlISJpaFxTQ=
-			</data>
-		</dict>
-		<key>Resources/cli.dist/CoreFoundation/_CoreFoundation.so</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			MfDqMPT94G/IlYhWK6xyZpqzqCou6bORc1YCz/eMOI0=
-			</data>
-		</dict>
-		<key>Resources/cli.dist/CoreFoundation/_inlines.so</key>
-		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			4Ymt6porswBBJDS8MhFAys4LGeGj34haonboFKzptcY=
+			CxLdI5Xd91kVEMeoQ1GOAVrLY6k=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"0b12dd2395ddf7591510c7a843518e015acb63a9"</string>
 		</dict>
-		<key>Resources/cli.dist/Foundation/_Foundation.so</key>
+		<key>MacOS/AppKit/_inlines.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			Z9CxwpmOcx9CG3MWH1tbClAM1TsoBZL173rdOggSiZQ=
+			fNzY6V6VgKOB/K7TC8c+Nk2dbzA=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"7cdcd8e95e9580a381fcaed30bc73e364d9d6f30"</string>
 		</dict>
-		<key>Resources/cli.dist/Foundation/_inlines.so</key>
+		<key>MacOS/CoreFoundation/_CoreFoundation.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			1JgI8Bd1hO2UETcn/hfa317/SYoJAhZxdfBjgYhlCHY=
+			TCOd4IhDni8d2DfWgmYn0iAO/IQ=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"4c239de088439e2f1dd837d6826627d2200efc84"</string>
 		</dict>
-		<key>Resources/cli.dist/HIServices/_HIServices.so</key>
+		<key>MacOS/CoreFoundation/_inlines.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			ib9h/wVZRf+sSX5z1z0YrWSNoDLg2FshBHvKGOl3fpU=
+			xaNnANHAK7Ecwl8OIo4Kn3jOj/A=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"c5a36700d1c02bb11cc25f0e228e0a9f78ce8ff0"</string>
 		</dict>
-		<key>Resources/cli.dist/Python</key>
+		<key>MacOS/Foundation/_Foundation.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			+ardow0e6m+PvGD6BcfZkUW95HPS7Ne6Vwy24Vzmd54=
+			fcR4iAxyqEU6eIq+jAg06lKicdU=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"7dc478880c72a8453a788abe8c0834ea52a271d5"</string>
 		</dict>
-		<key>Resources/cli.dist/Quartz/CoreGraphics/_callbacks.so</key>
+		<key>MacOS/Foundation/_inlines.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			tW5p4JyM8NE5JS+ITJgvDx0quBNZAjSLFS+t6d+cYYs=
+			dJwhq1PHnXy6Q9K3P7S0azz6Rig=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"749c21ab53c79d7cba43d2b73fb4b46b3cfa4628"</string>
 		</dict>
-		<key>Resources/cli.dist/Quartz/CoreGraphics/_coregraphics.so</key>
+		<key>MacOS/HIServices/_HIServices.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			FuOX4KWgjUK3uAQfNMbg0o3IJi2N9oA8bVte8HsoMhw=
+			E2zHuZfXu0jpsq2ISQUepBh+IcU=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"136cc7b997d7bb48e9b2ad8849051ea4187e21c5"</string>
 		</dict>
-		<key>Resources/cli.dist/Quartz/CoreGraphics/_doubleindirect.so</key>
+		<key>MacOS/Python</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			yU2G9tiecPif5ouwVkcRR1tmLyNeQ85gVc16iyAjodE=
+			3MnZz34AO2uFdnKE5EF28f12rdA=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"dcc9d9cf7e003b6b85767284e44176f1fd76add0"</string>
 		</dict>
-		<key>Resources/cli.dist/Quartz/CoreGraphics/_inlines.so</key>
+		<key>MacOS/Quartz/CoreGraphics/_callbacks.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			HTxPaAfT6Opng6JYVw8ERCK7JdV6JZ3SUkqEK8MPh44=
+			3Q9jknzw2SpT+uRx4xdNuMsA0/U=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"dd0f63927cf0d92a53fae471e3174db8cb00d3f5"</string>
 		</dict>
-		<key>Resources/cli.dist/Quartz/CoreGraphics/_sortandmap.so</key>
+		<key>MacOS/Quartz/CoreGraphics/_coregraphics.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			iS7+gTijJUm7pHS1YJIbveGwAKXax2/HAOFzLoiiCVg=
+			haZlaQ8MR8+4GzyoF/x2MdPPT1s=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"85a665690f0c47cfb81b3ca817fc7631d3cf4f5b"</string>
 		</dict>
-		<key>Resources/cli.dist/Quartz/CoreVideo/_CVPixelBuffer.so</key>
+		<key>MacOS/Quartz/CoreGraphics/_doubleindirect.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			cYzdOkx7HttDyaMpapvNMJ8nYWbn8BsAnZA3e0gOR6M=
+			+/uaMNUQxrRCq41Jyghym1IHNz4=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"fbfb9a30d510c6b442ab8d49ca08729b5207373e"</string>
 		</dict>
-		<key>Resources/cli.dist/Quartz/ImageKit/_imagekit.so</key>
+		<key>MacOS/Quartz/CoreGraphics/_inlines.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			L1136WZxQiBIse7DOCQ3Pkrr+AzgNj3J47zdeqHdfP0=
+			xqWajbsTFSJ4NGCRl/ROk0nuKZ8=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"c6a59a8dbb1315227834609197f44e9349ee299f"</string>
 		</dict>
-		<key>Resources/cli.dist/Quartz/PDFKit/_PDFKit.so</key>
+		<key>MacOS/Quartz/CoreGraphics/_sortandmap.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			8Cwx32aPrrCrYKt0X6O8FvmcdC2ke22Etafkv4fdKMg=
+			AhI4ZsDGVN8cz+jaQxCdslwl4qs=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"02123866c0c654df1ccfe8da43109db25c25e2ab"</string>
 		</dict>
-		<key>Resources/cli.dist/Quartz/QuartzCore/_quartzcore.so</key>
+		<key>MacOS/Quartz/CoreVideo/_CVPixelBuffer.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			/0UU8lXziGNCd1/TqxnlgoSoC8bG+m3jGo+DBIkyM/U=
+			8W2GYjeoGocFL0+DpinaFaU9cCk=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"f16d866237a81a87052f4f83a629da15a53d7029"</string>
 		</dict>
-		<key>Resources/cli.dist/Quartz/QuickLookUI/_QuickLookUI.so</key>
+		<key>MacOS/Quartz/ImageKit/_imagekit.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			EvdXxwevoaCyqFLB7jhfI7/kvqJL/xKIXe3gr59m6X0=
+			dC3864lDWdZogtGRck7RcRYJmUg=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"742dfceb894359d66882d191724ed17116099948"</string>
 		</dict>
-		<key>Resources/cli.dist/_asyncio.so</key>
+		<key>MacOS/Quartz/PDFKit/_PDFKit.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			NsA1aazx6jRG7bzT4+shGn3iV9mnX24dyMEYJGGXgu4=
+			qYz6h2QbQ76Se9Q0KDCcEHPY9fg=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"a98cfa87641b43be927bd43428309c1073d8f5f8"</string>
 		</dict>
-		<key>Resources/cli.dist/_bisect.so</key>
+		<key>MacOS/Quartz/QuartzCore/_quartzcore.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			w6L3zAeSxLg2oa6wn7PyTTROPx1htKp+u6MY67+4wwM=
+			4PmSVNIkEKT1UVOdodmuXns8ERM=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"e0f99254d22410a4f551539da1d9ae5e7b3c1113"</string>
 		</dict>
-		<key>Resources/cli.dist/_blake2.so</key>
+		<key>MacOS/Quartz/QuickLookUI/_QuickLookUI.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			k1apql33kxc7OCDF6jPq0/WeBk6XdLlJssknrRnn0jI=
+			Yy/puDIVJCXVcQWyNXrdhHIKqaQ=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"632fe9b832152425d57105b2357add84720aa9a4"</string>
 		</dict>
-		<key>Resources/cli.dist/_brotli.so</key>
+		<key>MacOS/_asyncio.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			0N7X49mr75xnGZ75ILfYIuQVnCzucxa7/jXnpXN5fp4=
+			tUS2WGy+WCS0+3NLear1ztUB1jU=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"b544b6586cbe5824b4fb734b79aaf5ced501d635"</string>
 		</dict>
-		<key>Resources/cli.dist/_bz2.so</key>
+		<key>MacOS/_blake2.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			aHj8QxDEAZafpfKs3w1n565O25j2oxX5SCNALzvKTyM=
+			dAEwD40Fl/YOOaZsk7t3OPfOMNE=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"7401300f8d0597f60e39a66c93bb7738f7ce30d1"</string>
 		</dict>
-		<key>Resources/cli.dist/_cffi_backend.so</key>
+		<key>MacOS/_brotli.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			M1QjjD+AlEpP4kU1lIBu37UNVFN+x9gYTwHbnYs0Hog=
+			0pX/hp1QXtS0dLNhdPddiB4mt3o=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"d295ff869d505ed4b474b36174f75d881e26b77a"</string>
 		</dict>
-		<key>Resources/cli.dist/_codecs_cn.so</key>
+		<key>MacOS/_bz2.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			90etjfVDxuZrdylqkBeci+fU3vnfaqIi7RN5qr8WwAI=
+			kQWD47csS+11dhWUP45lJjqv8lw=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"910583e3b72c4bed757615943f8e65263aaff25c"</string>
 		</dict>
-		<key>Resources/cli.dist/_codecs_hk.so</key>
+		<key>MacOS/_cffi_backend.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			/FMGompGMvr8EmYB21uw5NUc6gsy9MvSfwY6Ay/rBYs=
+			oGM1eT1SLKQmg2y//d9PhHVN1UU=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"a06335793d522ca426836cbffddf4f84754dd545"</string>
 		</dict>
-		<key>Resources/cli.dist/_codecs_iso2022.so</key>
+		<key>MacOS/_codecs_cn.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			/3SHmdXaBnqlZGkiVEnM776OYMT4zpAfugYTjAUkFRk=
+			uNDEL7G9pA4LNQu39nyZLZUyKhI=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"b8d0c42fb1bda40e0b350bb7f67c992d95322a12"</string>
 		</dict>
-		<key>Resources/cli.dist/_codecs_jp.so</key>
+		<key>MacOS/_codecs_hk.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			UE/SjvU+qk1Cc+N8xOL4WdmgeA7DrqHSaDNsgpmcJdU=
+			jUENbxnsL00OpxIWDJ2lLOASqFk=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"8d410d6f19ec2f4d0ea712160c9da52ce012a859"</string>
 		</dict>
-		<key>Resources/cli.dist/_codecs_kr.so</key>
+		<key>MacOS/_codecs_iso2022.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			4RDKlYg2d07OYEGjHXL1ha+U69svY5D6saq+LM5gEEo=
+			5qRNzmgiPGT/5Z+miRKA7qGmM2M=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"e6a44dce68223c64ffe59fa6891280eea1a63363"</string>
 		</dict>
-		<key>Resources/cli.dist/_codecs_tw.so</key>
+		<key>MacOS/_codecs_jp.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			UJS5ct6z3Kav/UNLPuKz4PyadgWqSw07WTkBoyqP2pc=
+			0wriycb6YiQaHJL1U4Doen9sLBc=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"d30ae2c9c6fa62241a1c92f55380e87a7f6c2c17"</string>
 		</dict>
-		<key>Resources/cli.dist/_contextvars.so</key>
+		<key>MacOS/_codecs_kr.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			O0zMjgmMxq7YPVGqoxEIIOIHTRCuW4XXQgmhaQXRrLI=
+			L6UgKJ+jDXi11DgVA3AK5UbBhlg=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"2fa520289fa30d78b5d4381503700ae546c18658"</string>
 		</dict>
-		<key>Resources/cli.dist/_crypt.so</key>
+		<key>MacOS/_codecs_tw.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			AwQ97xsVgRDyDJtK2BcS1G3w1Wa+toiE2C8rSrTFg6A=
+			+qOxHDPX041doGPeNPdc7s3tPTI=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"faa3b11c33d7d38d5da063de34f75ceecded3d32"</string>
 		</dict>
-		<key>Resources/cli.dist/_csv.so</key>
+		<key>MacOS/_contextvars.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			LMBblX44GJjoo64w94re4+5Nv4J3lW7o8LcCoemI98E=
+			tX40ANVNVdnTB/GGxDsdF90Bp/g=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"b57e3400d54d55d9d307f186c43b1d17dd01a7f8"</string>
 		</dict>
-		<key>Resources/cli.dist/_ctypes.so</key>
+		<key>MacOS/_csv.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			kRS4Gva2xyEf/orExvZdhcw8rMYEXJKM4zUiu1SdIng=
+			bcb6ohLizGtFsW9vSB7iHO/qIwo=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"6dc6faa212e2cc6b45b16f6f481ee21cefea230a"</string>
 		</dict>
-		<key>Resources/cli.dist/_datetime.so</key>
+		<key>MacOS/_ctypes.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			y30hxsKSBA0oEyp1SsDj0NhPqcrYIJmvu8t7SVCF0Ng=
+			Mke360SDgF0ViBDZfV93yyOb2kk=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"3247b7eb4483805d158810d97d5f77cb239bda49"</string>
 		</dict>
-		<key>Resources/cli.dist/_dbm.so</key>
+		<key>MacOS/_datetime.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			XhiqwISjbzTfOBhxJ8R//ebfrJeYlKo4G6fgfTM2k+E=
+			L98emFfYAP2rFCXFyA6+pjjRgyk=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"2fdf1e9857d800fdab1425c5c80ebea638d18329"</string>
 		</dict>
-		<key>Resources/cli.dist/_decimal.so</key>
+		<key>MacOS/_decimal.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			5zE9YWfGlA/1eLL5PLgpImv0HKKjl1sm9VQysA+DyvQ=
+			kyL0GSOcsI1GlUp1eIHDhHoOyrE=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"9322f419239cb08d46954a757881c3847a0ecab1"</string>
 		</dict>
-		<key>Resources/cli.dist/_elementtree.so</key>
+		<key>MacOS/_elementtree.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			Viw97MPOhBEorvE4ow+udLT2tjuC+iGXxmUT7E+yzhU=
+			Wh3p7YwcWP2Po3V1bGy9iot7at8=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"5a1de9ed8c1c58fd8fa375756c6cbd8a8b7b6adf"</string>
 		</dict>
-		<key>Resources/cli.dist/_hashlib.so</key>
+		<key>MacOS/_hashlib.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			V5ECJgpD+nOXPQSYiYMLG+AO8GYeZpCtPaa9RRM+PHw=
+			U+4vL1YgE/yYlqa2TJrkppGs9Fg=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"53ee2f2f562013fc9896a6b64c9ae4a691acf458"</string>
 		</dict>
-		<key>Resources/cli.dist/_heapq.so</key>
+		<key>MacOS/_heapq.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			dPTMeLSWzkLpUVYTeAPM/gd6B2aicEia+zgK8Q/Lf9w=
+			tyIjo00tYZ2W8n0t5bRoP6+h704=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"b72223a34d2d619d96f27d2de5b4683fafa1ef4e"</string>
 		</dict>
-		<key>Resources/cli.dist/_json.so</key>
+		<key>MacOS/_lzma.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			2O8AWO20+QOYPkiX09/ZPN82NRMGYNpyyTWwoelCvjM=
+			N/9gvtr7JUg7n1bzTRB5Hnj+RbE=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"37ff60bedafb25483b9f56f34d10791e78fe45b1"</string>
 		</dict>
-		<key>Resources/cli.dist/_lzma.so</key>
+		<key>MacOS/_md5.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			F8rkiUuQxroeoWq+BxwWmBdJ68kqjpHR1DpmvbMI97k=
+			k6bdkXGeccJNDZGmJZyLgHYufGM=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"93a6dd91719e71c24d0d91a6259c8b80762e7c63"</string>
 		</dict>
-		<key>Resources/cli.dist/_multibytecodec.so</key>
+		<key>MacOS/_multibytecodec.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			CAYorT1mN9e3xQwKlB6xNlqiVhqfqj57pPYwPzACYPw=
+			MUBboX+E4b2Xs01JUglP5cuNCN4=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"31405ba17f84e1bd97b34d4952094fe5cb8d08de"</string>
 		</dict>
-		<key>Resources/cli.dist/_multiprocessing.so</key>
+		<key>MacOS/_multiprocessing.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			ygLIvClu64aO/fcz9aCCdiISRdlFyGMumHTkkVyKJgM=
+			hFW+LvGAkAhT6yhfqDNsDI6KWrA=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"8455be2ef180900853eb285fa8336c0c8e8a5ab0"</string>
 		</dict>
-		<key>Resources/cli.dist/_opcode.so</key>
+		<key>MacOS/_opcode.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			sIVareGwVw6zT29kUi34GhJK49hbcuKV+GnMPG3PB5w=
+			wUg/mV9ta6lOL8obBhkiUpRjyQc=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"c1483f995f6d6ba94e2fca1b061922529463c907"</string>
 		</dict>
-		<key>Resources/cli.dist/_pickle.so</key>
+		<key>MacOS/_pickle.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			UPzkYvmZ0HvgVZBYJzp+rPcNBFViPS4/G0Bka34Y6ns=
+			YiLYyVr8Kx5a0uc0JRS/ylDWKBg=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"6222d8c95afc2b1e5ad2e7342514bfca50d62818"</string>
 		</dict>
-		<key>Resources/cli.dist/_posixshmem.so</key>
+		<key>MacOS/_posixshmem.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			o5TbFf7Zn7bChjIsER81Yp7pRLiAxxi9bXe4f+fqKRI=
+			Kz89GJFfizXRlzZ/P+0CsIG+G9E=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"2b3f3d18915f8b35d197367f3fed02b081be1bd1"</string>
 		</dict>
-		<key>Resources/cli.dist/_posixsubprocess.so</key>
+		<key>MacOS/_posixsubprocess.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			PB/XE+w80HX1E1ZgZsEYBKRkmlU7/5sTxJ8C2ibFTVw=
+			Jb1ZY88XRhEzrhNci4D4GUBuvug=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"25bd5963cf17461133ae135c8b80f819406ebee8"</string>
 		</dict>
-		<key>Resources/cli.dist/_queue.so</key>
+		<key>MacOS/_queue.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			fLFFeJz1on0yl3GdNO7zUF8hTxUK84YWFV78oGesaa8=
+			oNWk2Al/Z9VYkpHBny33+qoomr4=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"a0d5a4d8097f67d5589291c19f2df7faaa289abe"</string>
 		</dict>
-		<key>Resources/cli.dist/_random.so</key>
+		<key>MacOS/_random.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			BvtUEhsPBs3+i2dKDctVHx2NzM8yuZVtFFJ9WJVNO7E=
+			RuT7DE5Xg/1t9jW2kL+z8rBAdOQ=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"46e4fb0c4e5783fd6df635b690bfb3f2b04074e4"</string>
 		</dict>
-		<key>Resources/cli.dist/_scproxy.so</key>
+		<key>MacOS/_scproxy.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			L1HZ1kS2TvAzXlDakQGZNj81dXMj93yDDoHD0UjnwrA=
+			/5VJqeohYg5kUsETCbsTcX3qZDo=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"ff9549a9ea21620e6452c11309bb13717dea643a"</string>
 		</dict>
-		<key>Resources/cli.dist/_sha512.so</key>
+		<key>MacOS/_sha1.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			Z70HfvoekchA7+R8Bth1BBld3dMYMAZ6dTmQsIM55GU=
+			dDiykeclevA4SyfXL1SA20d9MPM=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"7438b291e7257af0384b27d72f5480db477d30f3"</string>
 		</dict>
-		<key>Resources/cli.dist/_socket.so</key>
+		<key>MacOS/_sha256.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			JRaZC3kV2WX1vUGhI6fa9gTHAXIQoNciSTX7zyUEuHY=
+			jQ5JahqyaO4vF7etaXEzxdtfgH4=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"8d0e496a1ab268ee2f17b7ad697133c5db5f807e"</string>
 		</dict>
-		<key>Resources/cli.dist/_ssl.so</key>
+		<key>MacOS/_sha3.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			qb2EKdcEwwkKMTKQRhuegfGFweuzI1rxlqJ/X5Jv8AA=
+			Vp7qO03F+3wMb07LOjw/fUG0z98=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"569eea3b4dc5fb7c0c6f4ecb3a3c3f7d41b4cfdf"</string>
 		</dict>
-		<key>Resources/cli.dist/_statistics.so</key>
+		<key>MacOS/_sha512.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			mBbbq/MTi48gfKfsKsJBzqPWDHtuBPT4XHENs3SrlvU=
+			lQ9QupXTkWCkQTs20CIVMcXL34w=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"950f50ba95d39160a4413b36d0221531c5cbdf8c"</string>
 		</dict>
-		<key>Resources/cli.dist/_struct.so</key>
+		<key>MacOS/_socket.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			VJ7a1eZW0Z8M9eletPu5L91g4yhaIbpDDYuqWrVW+xU=
+			sU9yOUFU7/Vft/gIlIJiiv8UlOM=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"b14f72394154eff55fb7f8089482628aff1494e3"</string>
 		</dict>
-		<key>Resources/cli.dist/_uuid.so</key>
+		<key>MacOS/_ssl.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			z+eOnOL9UsXTK82YcCaCXBgoWfpPIBeGTGU0sPoWNaw=
+			1FeaywAEFqjER+3Hr0iSwULEPWU=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"d4579acb000416a8c447edc7af4892c142c43d65"</string>
 		</dict>
-		<key>Resources/cli.dist/_zoneinfo.so</key>
+		<key>MacOS/_statistics.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			YA3ECg06h1tyqINCxD8eT+clusBRmqyP/Zzr1LfrSSk=
+			n988+Ah9GtZrqMb1xAdw/SQzxUg=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"9fdf3cf8087d1ad66ba8c6f5c40770fd2433c548"</string>
 		</dict>
-		<key>Resources/cli.dist/aiohttp/_helpers.so</key>
+		<key>MacOS/_struct.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			fqmFpgjIotHLNENa1FVQq7Bl25ROxmZU3mtvKpoBAzk=
+			Km5LyzhcoaXt8W9jz4S/YYNwzJk=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"2a6e4bcb385ca1a5edf16f63cf84bf618370cc99"</string>
 		</dict>
-		<key>Resources/cli.dist/aiohttp/_http_parser.so</key>
+		<key>MacOS/_uuid.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			1KWtsBHzrLE8AbuHi27Yx0PhWz5W1WcmZ+P47RZKGKM=
+			ulwmqtSlKsUkgakjbk1VLqgplFg=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"ba5c26aad4a52ac52481a9236e4d552ea8299458"</string>
 		</dict>
-		<key>Resources/cli.dist/aiohttp/_http_writer.so</key>
+		<key>MacOS/_zoneinfo.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			NnBzHAMOOOYLmkB4yJYLQtcyNLJqrZzcS8MtQ0fP6HQ=
+			q6rJjn3Xp107c75EXmEkEIJzq0s=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"abaac98e7dd7a75d3b73be445e6124108273ab4b"</string>
 		</dict>
-		<key>Resources/cli.dist/aiohttp/_websocket.so</key>
+		<key>MacOS/aiohttp/_helpers.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			uF+3XYM0kT+3uTEV1eWjbMP3cciadne/7VfA1I9eVaY=
+			wFlw/i1kXGh1q4q7oxewI21Nwrc=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"c05970fe2d645c6875ab8abba317b0236d4dc2b7"</string>
 		</dict>
-		<key>Resources/cli.dist/array.so</key>
+		<key>MacOS/aiohttp/_http_parser.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			fIyU4GX1/Ti0GoSnljaimVl5Ybx5P9Gfo7E2UYNSLWs=
+			IAz7JRivAsIWv3QPBpTFxQbMPKg=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"200cfb2518af02c216bf740f0694c5c506cc3ca8"</string>
 		</dict>
-		<key>Resources/cli.dist/audioop.so</key>
+		<key>MacOS/aiohttp/_http_writer.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			rfMfzk6+vbzkqdwa1N4YmCN6wtKtYPkdMcbr1iZzq4Y=
+			0A6cMvK9YDQ+UVvybBjlgfun928=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"d00e9c32f2bd60343e515bf26c18e581fba7f76f"</string>
 		</dict>
-		<key>Resources/cli.dist/binascii.so</key>
+		<key>MacOS/aiohttp/_websocket.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			XRIPA/lpchXV+D+VXRrQB6HqywrtoPrL231WmvW2X8o=
+			a3+FJ44/i5G7Hu3XDd4XD3veeFU=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"6b7f85278e3f8b91bb1eedd70dde170f7bde7855"</string>
 		</dict>
-		<key>Resources/cli.dist/charset_normalizer/md.so</key>
+		<key>MacOS/array.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			Z6HcioeCz5eLBeuYvVccgfXKWcQFnq3JAYi/H4nuGKU=
+			FTQvcfw5J4nbfjN9JKjA4hMog0c=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"15342f71fc392789db7e337d24a8c0e213288347"</string>
 		</dict>
-		<key>Resources/cli.dist/charset_normalizer/md__mypyc.so</key>
+		<key>MacOS/binascii.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			EzDhsfcm6BERRMI9qDJwMDMtn+fQQ3gzAeZb0I1FvMo=
+			w/RI1eAx++mjykPx7u2DHuo5QQ4=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"c3f448d5e031fbe9a3ca43f1eeed831eea39410e"</string>
 		</dict>
-		<key>Resources/cli.dist/cli</key>
+		<key>MacOS/fcntl.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			qSyE+aWU+t0nWsoWd4nzqVwzgql+vh3X6QubM67O3sg=
+			DZR+pDYhrS2U4DnUe55ipP5hZPg=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"0d947ea43621ad2d94e039d47b9e62a4fe6164f8"</string>
 		</dict>
-		<key>Resources/cli.dist/fcntl.so</key>
+		<key>MacOS/frozenlist/_frozenlist.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			yoGPZTX90sjnTy/cjm+1Zzh5xLjEOKTB4tRXuYWD/44=
+			lA0VhG3qYbDvgGUCulOIQqY2VU8=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"940d15846dea61b0ef806502ba538842a636554f"</string>
 		</dict>
-		<key>Resources/cli.dist/frozenlist/_frozenlist.so</key>
+		<key>MacOS/grp.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			HMgoPTZFWoV50kwZns3WOmcxwjlTCnIeWP9iTwBE3rM=
+			OGhc4QFFz3LV12oyNKU3eJzKRg0=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"38685ce10145cf72d5d76a3234a537789cca460d"</string>
 		</dict>
-		<key>Resources/cli.dist/grp.so</key>
+		<key>MacOS/libcrypto.1.1.dylib</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			CGLUc9qNsBX3PkQFJ9B251v+BNHsDhUDQm/GytJscL4=
+			R6DjW234oR6b1vIB7h2SA38QXJw=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"47a0e35b6df8a11e9bd6f201ee1d92037f105c9c"</string>
 		</dict>
-		<key>Resources/cli.dist/libcrypto.1.1.dylib</key>
+		<key>MacOS/libncursesw.5.dylib</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			Y0OCxyPLbrLhgtu68fGE+f3WyrlILllIt5lflPhlCFY=
+			w35kMBevOInrQPvQWomRdmhWZ+k=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"c37e643017af3889eb40fbd05a899176685667e9"</string>
 		</dict>
-		<key>Resources/cli.dist/libncursesw.5.dylib</key>
+		<key>MacOS/libssl.1.1.dylib</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			bSVx9OOfQMxukC5Brxzxemxo+LySo+rpy2QnOkNgS0g=
+			2tr80DmlIqIhDL7aQ2fOHxCVh7A=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"dadafcd039a522a2210cbeda4367ce1f109587b0"</string>
 		</dict>
-		<key>Resources/cli.dist/libssl.1.1.dylib</key>
+		<key>MacOS/math.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			KPdfrdE8OPtI8mdlMUCa5ID1cOqVFHyM1aLX06se8q8=
+			BUC5ToC20rr/DeApUSpg048/QF8=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"0540b94e80b6d2baff0de029512a60d38f3f405f"</string>
 		</dict>
-		<key>Resources/cli.dist/math.so</key>
+		<key>MacOS/mmap.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			oViBHu6TVLidOUX8T3Tq1faC1NmU1WdjbwcvJeKjZTI=
+			nMbqKL8rQIeCGVyYd/fz4ZSNG9Q=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"9cc6ea28bf2b408782195c9877f7f3e1948d1bd4"</string>
 		</dict>
-		<key>Resources/cli.dist/mmap.so</key>
+		<key>MacOS/modules/hermes/connectors/certs.pem</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			fPi0q1xi33fBs3kWl8zG7ysTkFFBnD91ceSg7H2oQEs=
+			xpcg7NyfVVYXPX+1lQUN4a0jMo8=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"b2d75614dc1972caf2db5e1b5faff39737026ee1" or cdhash H"c69720ecdc9f5556173d7fb595050de1ad23328f"</string>
 		</dict>
-		<key>Resources/cli.dist/modules/hermes/connectors/certs.pem</key>
+		<key>MacOS/multidict/_multidict.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			kzeEc00cjuEa7JKLgECXMvWJhYDHZsSB0sloP86d4nA=
+			UTVRfpzzsessVEwQr0Kr+nw5jsM=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"5135517e9cf3b1eb2c544c10af42abfa7c398ec3"</string>
 		</dict>
-		<key>Resources/cli.dist/multidict/_multidict.so</key>
+		<key>MacOS/objc/_objc.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			ha7MgHCIR6agSddXXpeIfooTe2AjSon2Mvwp7nhOJwI=
+			wuuUkdA22/Q4ouEhtE1p4Vev8OY=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"c2eb9491d036dbf438a2e121b44d69e157aff0e6"</string>
 		</dict>
-		<key>Resources/cli.dist/objc/_objc.so</key>
+		<key>MacOS/orjson/orjson.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			/irc3Y6Qgfcc0DSPGjIm3RELXjDjmCh9i/luECDLd0w=
+			07b++OTuL/qWzOSo2JELKBVXS2U=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"d3b6fef8e4ee2ffa96cce4a8d8910b2815574b65"</string>
 		</dict>
-		<key>Resources/cli.dist/orjson/orjson.so</key>
+		<key>MacOS/pycares/_cares.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			ftbMs6Q0zUlIK2Ik4uCcUl6lXnuUkPsnkpyuwJyMuhY=
+			bw4mnxAqL0RaK0PA/1qXeVncZQA=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"6f0e269f102a2f445a2b43c0ff5a977959dc6500"</string>
 		</dict>
-		<key>Resources/cli.dist/pycares/_cares.so</key>
+		<key>MacOS/pyexpat.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			BcpNm5ZnY4N/WVsYYZwg4olzW6FKWtTkYE4iyA2p5gg=
+			K2CSqoFFGiojQyr6frM27/Fc9WI=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"2b6092aa81451a2a23432afa7eb336eff15cf562"</string>
 		</dict>
-		<key>Resources/cli.dist/pyexpat.so</key>
+		<key>MacOS/readline.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			sXZ7maZ9wMugUPOilHCfZ8+4lnaQ212+i4jTZdOm9lA=
+			zlF2AWr3sMi86UK/1kA/zuhg0KA=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"ce5176016af7b0c8bce942bfd6403fcee860d0a0"</string>
 		</dict>
-		<key>Resources/cli.dist/readline.so</key>
+		<key>MacOS/select.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			6WyvaaY5+7Nq1vnjV7HOb/93n3kwFgT9nNgKtX3UNGs=
+			QMvzhggnRtt4Bjk58uWz8Cy1EtU=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"40cbf386082746db78063939f2e5b3f02cb512d5"</string>
 		</dict>
-		<key>Resources/cli.dist/select.so</key>
+		<key>MacOS/termios.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			c4PP3eFCQ+tys9BCcZTV2Azh/0G5mUCKo8XWdU4wZp0=
+			muhZueW1rZhFCmdTS1/mNHMAP3w=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"9ae859b9e5b5ad98450a67534b5fe63473003f7c"</string>
 		</dict>
-		<key>Resources/cli.dist/termios.so</key>
+		<key>MacOS/unicodedata.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			K2LM835aQdcUFOYrzjVgqmjNEeTGjVyxYMzgi1SPKwk=
+			z4kO2Ayx+vRbCOsVLJYKLu9a+C0=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"cf890ed80cb1faf45b08eb152c960a2eef5af82d"</string>
 		</dict>
-		<key>Resources/cli.dist/unicodedata.so</key>
+		<key>MacOS/yarl/_quoting_c.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			w7N13/ml50xAndLsjevjL2WYRBK9UO1QSaWSKf7Ba9g=
+			vrhr8TqtDvVX8IIUMd6W2P3TPbY=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"beb86bf13aad0ef557f0821431de96d8fdd33db6"</string>
 		</dict>
-		<key>Resources/cli.dist/yarl/_quoting_c.so</key>
+		<key>MacOS/zlib.so</key>
 		<dict>
-			<key>hash2</key>
+			<key>cdhash</key>
 			<data>
-			8shRB6zlcbK0V0UvfY00GZnEW6u0rS3pSiAhiaYUabk=
+			rhmtP3oW4Egj3MKrCpHyV4cDwnc=
 			</data>
+			<key>requirement</key>
+			<string>cdhash H"ae19ad3f7a16e04823dcc2ab0a91f2578703c277"</string>
 		</dict>
-		<key>Resources/cli.dist/zlib.so</key>
+		<key>Resources/Icons.icns</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YuwhOlLIfPvvstYJXB9roUU2tZbtLUPwFXCKiEEzuZE=
+			zvSsOt7oLjHQMwQAfHw7n2C96rl1CqF662YnKlBSkT8=
 			</data>
 		</dict>
 	</dict>
